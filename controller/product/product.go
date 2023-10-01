@@ -3,7 +3,7 @@ package product
 import (
 	"net/http"
 
-	"github.com/asyauqi1511/go-workshop-service/models"
+	"github.com/asyauqi1511/go-workshop-service-old/models"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

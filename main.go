@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/asyauqi1511/go-workshop-service/controller/product"
-	"github.com/asyauqi1511/go-workshop-service/models"
+	"github.com/asyauqi1511/go-workshop-service-old/controller/product"
+	"github.com/asyauqi1511/go-workshop-service-old/models"
 	"github.com/gin-gonic/gin"
 )
 
